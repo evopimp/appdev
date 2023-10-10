@@ -1,0 +1,7 @@
+applications:
+  - name: Flutter Test App
+memory: 64M
+path: build/web/
+buildpack: staticfile_buildpack 
+routes:
+  - route: flutter-gaux-deliver-<us-south>.appdomain.cloud

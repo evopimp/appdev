@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "dart",
+      "type": "environment",
+      "path": "c:\\Users\\hopki\\appdev\\dart"
+    },
+    {
+      "name": "appdev-sharedflow",
+      "type": "sharedflow",
+      "path": "c:\\Users\\hopki\\appdev\\appdev-sharedflow"
+    },
+    {
+      "name": "appdev-authentication-proxy",
+      "type": "proxy",
+      "path": "c:\\Users\\hopki\\appdev\\appdev-authentication-proxy"
+    }
+  ],
+  "settings": {
+    "findUnusedExports.detectCircularImports": true
+  }

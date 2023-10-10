@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@google-cloud/appengine-admin": "^3.0.1",
+    "@google-cloud/artifact-registry": "^3.0.1",
+    "@google-cloud/cloudbuild": "^4.0.1",
+    "@google-cloud/compute": "^4.0.1",
+    "@google-cloud/data-fusion": "^3.0.1",
+    "@google-cloud/dataplex": "^3.0.1",
+    "@google-cloud/deploy": "^3.0.1",
+    "@google-cloud/documentai": "^8.0.1",
+    "@google-cloud/filestore": "^3.1.0",
+    "@google-cloud/firestore": "^6.7.0",
+    "@google-cloud/functions": "^3.0.1",
+    "@google-cloud/grafeas": "^5.0.1",
+    "@google-cloud/iam": "^1.0.1",
+    "@google-cloud/iam-credentials": "^3.0.1",
+    "@google-cloud/language": "^6.1.0",
+    "@google-cloud/os-config": "^3.0.1",
+    "@google-cloud/os-login": "^5.1.0",
+    "@google-cloud/pubsub": "^4.0.6",
+    "@google-cloud/secret-manager": "^5.0.1",
+    "@google-cloud/service-management": "^2.0.1",
+    "@google-cloud/storage": "^7.1.0",
+    "@google-cloud/storage-transfer": "^3.0.1",
+    "@google-cloud/vision": "^4.0.2",
+    "dotenv": "^16.3.1"
+  }
+}
